@@ -1,5 +1,4 @@
-Shot Boundary Detection
-Shot Boundary Detection (SBD) is a key technique in video analysis, used to segment a video into separate shots. A shot is a sequence of frames taken continuously by a single camera without interruption. Detecting these boundaries is essential for video indexing, summarization, and content analysis. Here's how it works:
+Short Boundary Detection (SBD) is a key technique in video analysis, used to segment a video into separate shots. A shot is a sequence of frames taken continuously by a single camera without interruption. Detecting these boundaries is essential for video indexing, summarization, and content analysis. Here's how it works:
 
 Types of Transitions:
 
@@ -19,7 +18,6 @@ Edge-based Methods: Compare the edge information between frames.
 
 Machine Learning Approaches: Use trained models to identify shot boundaries.
 
-Background Subtraction
 Background Subtraction is a technique used in computer vision to separate the foreground (moving objects) from the background in a sequence of images or video frames. This is particularly useful in surveillance systems, traffic monitoring, and gesture recognition. Here's an overview of the process:
 
 Modeling the Background:
